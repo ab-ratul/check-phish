@@ -107,9 +107,9 @@ Human Firewall Guidance:
 
 **Zero-Execution Guarantee:** This script is designed for deployment in secure environments. It processes MIME payloads statically. Link tracing is restricted to HTTP `HEAD` operations to fetch server headers only. It does not download response bodies, render DOM environments, or execute JavaScript.
 
-## 👨‍💻 Author
 
-**Ali Burhan**
+## 👨‍💻 Author
+**Ali Burhan**<br>
 Cybersecurity Analyst
 
 
