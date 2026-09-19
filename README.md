@@ -12,7 +12,7 @@
      ( \__|
      \___/
 
-Check Phish By Ali Burhan
+Check Phish By Ali Burhan | sqlerror
 Version 1.0 - Enterprise Triage & Threat Engine
 ```
 
