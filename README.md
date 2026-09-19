@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-success.svg)
 ![Execution](https://img.shields.io/badge/Execution-100%25_Static_%26_Safe-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-purple.svg)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 ```text
              O  o
