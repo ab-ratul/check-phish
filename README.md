@@ -112,5 +112,4 @@ Human Firewall Guidance:
 **Ali Burhan**
 Cybersecurity Analyst
 
-```
 
