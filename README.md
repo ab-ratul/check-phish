@@ -1,4 +1,3 @@
-```markdown
 # 🎣 Check Phish - Enterprise Phishing Triage Engine
 
 ![Version](https://img.shields.io/badge/Version-4.0-blue.svg)
@@ -16,7 +15,6 @@
 Check Phish By Ali Burhan
 Version 4.0 - Enterprise Triage & Threat Engine
 
-```
 
 ## 🛡️ Overview
 
