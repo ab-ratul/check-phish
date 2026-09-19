@@ -13,7 +13,7 @@
      \___/
 
 Check Phish By Ali Burhan
-Version 4.0 - Enterprise Triage & Threat Engine
+Version 1.0 - Enterprise Triage & Threat Engine
 ```
 
 ## 🛡️ Overview
@@ -44,7 +44,7 @@ This tool requires Python 3.8 or higher. While it runs natively with local heuri
 **1. Clone the repository:**
 
 ```bash
-git clone [https://github.com/aliburhan/check-phish.git](https://github.com/aliburhan/check-phish.git)
+git clone https://github.com/ab-ratul/check-phish.git
 cd check-phish
 
 ```
