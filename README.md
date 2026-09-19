@@ -56,6 +56,14 @@ pip install requests python-whois Pillow pyzbar PyPDF2
 
 ```
 
+### 🪟 Windows Setup Note (QR Code Detection)
+The Quishing (QR Code) extraction module relies on the `pyzbar` library, which requires external C-libraries to execute correctly on Windows environments. If you encounter a `FileNotFoundError` (e.g., missing `libzbar-64.dll` or `libiconv.dll`) upon launch:
+
+1. Visit the official Microsoft download page for the [Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-us/download/details.aspx?id=40784).
+2. Download and install the 64-bit version (**`vcredist_x64.exe`**).
+3. Restart your terminal environment (Command Prompt, PowerShell, or VS Code).
+4. Execute `python check_phish.py` to utilize the fully unlocked tool.
+
 ## 🚀 Usage Guide
 
 Check Phish features an interactive, CLI-based menu tailored for rapid incident response.
@@ -72,6 +80,9 @@ python check_phish.py
 1. **Load from File:** Enter the path to any raw `.eml` or `.txt` file.
 2. **Direct Paste:** Paste raw email headers and body directly into the terminal buffer (ideal for isolated VM environments).
 3. **Exit:** Safely terminate the engine.
+
+   <img width="813" height="435" alt="image" src="https://github.com/user-attachments/assets/2bddbae3-6be7-4c1e-99fc-e8ba5a9d8c86" />
+
 
 ## 📊 Sample Incident Report
 
